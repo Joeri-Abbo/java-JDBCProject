@@ -8,7 +8,6 @@ public class Main {
     public static void main(String[] args) throws ClassNotFoundException {
 
         String databaseURL = "jdbc:mysql://localhost:3306";
-//        String databaseURL = "jdbc:mysql://127.0.0.1:3306";
 
         String user = "mysql";
         String password = "mysql";
